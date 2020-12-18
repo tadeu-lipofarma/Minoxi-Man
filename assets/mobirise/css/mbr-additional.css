@@ -1053,7 +1053,7 @@ a {
 }
 .cid-sjgO0wCAjO {
   padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/sem-ttulo-2-1-comprimida-2000x800.png");
 }
 .cid-sjgO0wCAjO .row {
@@ -1474,8 +1474,8 @@ a {
 }
 .cid-sjmjL7SZEk .img-wrapper img {
   width: 48%;
-  margin-left: center;
-  margin-right: center;
+  margin-left: auto;
+  margin-right: auto;
   object-fit: cover;
   display: block;
 }
@@ -1527,6 +1527,8 @@ a {
 .cid-sjojerWfjR .img-wrapper img {
   width: 48%;
   object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
 }
 .cid-sjojerWfjR .card-subtitle {
   color: #0095ff;
@@ -1738,9 +1740,9 @@ a {
   margin: 0 auto;
 }
 .cid-sh2TPRiWae .zoom:hover {
-  -ms-transform: scale(1.1);
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+  -ms-transform: scale(1.06);
+  -webkit-transform: scale(1.06);
+  transform: scale(1.06);
 }
 .cid-shd6GGGnws {
   padding-top: 3rem;
@@ -1776,6 +1778,9 @@ a {
     width: calc(101.3%);
     height: 73px;
   }
+}
+.cid-shd6GGGnws .mbr-section-subtitle {
+  color: #303030;
 }
 .cid-sh2XDldWrb {
   padding-top: 0rem;
@@ -1819,7 +1824,7 @@ a {
   padding-left: 1rem;
   font-family: 'Moririse2' !important;
   font-size: 1.4rem !important;
-  color: #6592e6;
+  color: #ffffff;
 }
 .cid-sh2sUuPUvh .panel-body,
 .cid-sh2sUuPUvh .card-header {
@@ -1832,9 +1837,9 @@ a {
   color: #ffffff;
 }
 .cid-sh2sUuPUvh .panel-text {
-  color: #ffb000;
   background-color: #ffffff;
   padding: 8px;
+  border-radius: 0 20px 20px 20px;
 }
 .cid-sir5CHOpuR {
   padding-top: 15px;
